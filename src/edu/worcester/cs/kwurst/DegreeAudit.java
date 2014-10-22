@@ -1,4 +1,4 @@
-package edu.worcester.cs.kwurst.cs401;
+package edu.worcester.cs.kwurst;
 
 /* 
  * Copyright (C) 2014 Karl R. Wurst
